@@ -1,6 +1,8 @@
-8.0.2 (Turon)
+8.0.3 (Pastillas)
 ==============================
+- Bump EvoX version to 8.0.3 (Pastillas)
 - Fixed Play Integrity (yet again)
 ------------------------------
+- Обновление версии EvoX до 8.0.3 (Pastillas)
 - Исправлен Play Integrity (в который раз)
 ==============================

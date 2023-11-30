@@ -1,0 +1,12 @@
+8.0.3 (Pastillas)
+==============================
+- Bump EvoX version to 8.0.3 (Pastillas)
+- Fixed Play Integrity (yet again)
+- Added EvoX launcher switch
+- Other fixes and improvements
+------------------------------
+- Обновление версии EvoX до 8.0.3 (Pastillas)
+- Исправлен Play Integrity (в который раз)
+- Добавлен переключатель EvoX launcher
+- Прочие улучшения и исправления
+==============================

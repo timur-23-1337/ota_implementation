@@ -1,0 +1,14 @@
+8.1 (Yema)
+==============================
+- Bump EvoX version to 8.1 (Yema)
+- Initial QPR1 release
+- Switched to Pixel launcher
+- Performance tweaks
+- Other fixes and improvements
+------------------------------
+- Обновление версии EvoX до 8.1 (Yema)
+- Начальный релиз QPR1
+- Pixel лаунчер идет по умолчанию
+- Настройка производителтьности
+- Прочие улучшения и исправления
+==============================

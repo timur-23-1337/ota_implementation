@@ -1,0 +1,14 @@
+8.2 (Tikoy)
+==============================
+- Bump EvoX version to 8.2 (Tikoy)
+- January security patch 
+- KSU updated to v0.7.2
+- More cutomization options added
+- Other fixes and improvements
+------------------------------
+- Обновление версии EvoX до 8.2 (Tikoy)
+- Январский патч безопасности
+- KSU обновлен до 0.7.2
+- Добавлены опции кастомизации системы
+- Прочие улучшения и исправления
+==============================

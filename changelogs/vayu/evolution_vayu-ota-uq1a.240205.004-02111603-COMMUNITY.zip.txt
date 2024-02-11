@@ -1,0 +1,4 @@
+8.3.1 Testing (Poco X3 Pro)
+-----------------------
+- Leica change reverted
+- Login issue should be fixed

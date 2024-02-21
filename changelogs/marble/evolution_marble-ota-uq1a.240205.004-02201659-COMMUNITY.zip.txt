@@ -1,0 +1,15 @@
+8.3.1 (Balut)
+==============================
+- Working Circle to search
+- Gemini added
+- 32 bit apps working
+- MIUI firmware required
+- Other fixes and improvements
+------------------------------
+- Рабочая функция "обвести для поиска"
+- Добавлен Gemini (не работает в России)
+- 32-x битные приложения работают
+- Требуется MIUI firmware
+- Прочие улучшения и исправления
+==============================
+

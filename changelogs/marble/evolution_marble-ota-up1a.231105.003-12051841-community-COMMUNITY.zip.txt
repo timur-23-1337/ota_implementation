@@ -1,8 +1,0 @@
-8.0.3 (Pastillas)
-==============================
-- Bump EvoX version to 8.0.3 (Pastillas)
-- Switched to EvoX launcher
-- Upstreamed Melt kernel
-- Dynamic Play Integrity fix system
-- Other fixes and improvements
-==============================

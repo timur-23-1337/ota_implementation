@@ -1,7 +1,0 @@
-8.0.3 (Pastillas)
-==============================
-- Bump EvoX version to 8.0.3 (Pastillas)
-- Switched to EvoX launcher
-- KSU prebuilt
-- Other fixes and improvements
-==============================

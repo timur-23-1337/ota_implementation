@@ -1,2 +1,1 @@
-- Initial OTA test
-- Heating fixed
+- QPR1 Update

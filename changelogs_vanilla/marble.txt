@@ -1,2 +1,2 @@
-- New customization options added
-- Happy	New Year everyone!
+- Miui camera 1.6mp fix
+- Misc improvements

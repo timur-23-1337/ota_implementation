@@ -17,7 +17,11 @@
             "paypal": "https://t.me/evoxcommunity",
             "telegram": "https://t.me/evoxcommunity",
             "github": "timur-23-1337",
-            "initial_installation_images": []
+            "initial_installation_images": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ]
         }
     ]
 }

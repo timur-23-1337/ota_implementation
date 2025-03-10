@@ -1,2 +1,4 @@
-- Miui camera 1.6mp fix
-- Misc improvements
+- Bump EvoX version to 10.3
+- Switch to KSU-Next
+- A lot of customization options added
+- Miscellaneous improvements 

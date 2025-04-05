@@ -1,4 +1,4 @@
-- Bump EvoX version to 10.3
-- Switch to KSU-Next
-- A lot of customization options added
+- Bump EvoX version to 10.4
+- KSU-Next updated to 1.0.6
+- Game FPS drop fixed
 - Miscellaneous improvements 

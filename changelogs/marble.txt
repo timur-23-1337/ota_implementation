@@ -1,4 +1,2 @@
-- Bump EvoX version to 10.6
-- JDSP and Viper drivers included
-- Switch to HOS2 FW (not included)
-- Other improvements
+- Bump EvoX version to 11.0
+- Miscellaneous improvements

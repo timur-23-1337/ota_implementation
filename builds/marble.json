@@ -4,25 +4,25 @@
             "maintainer": "Timur_23_1337",
             "currently_maintained": true,
             "oem": "Xiaomi",
-            "device": "POCO F5",
-            "filename": "EvolutionX-15.0-20250523-marble-10.6-COMMUNITY.zip",
-            "download": "https://sourceforge.net/projects/evolutionx-community/files/EvolutionX-15.0-20250523-marble-10.6-COMMUNITY.zip/download/",
-            "timestamp": 1747942047,
-            "md5": "63233709a6e83d8ece6188af7782ae3a",
-            "sha256": "53fb35007a38567d9b2c0092427e958bc041c7a6b61abea3001e2934846ad51b",
-            "size": 2504024370,
-            "version": "10.6",
+            "device": "Poco F5 / Redmi Note 12 Turbo",
+            "filename": "EvolutionX-16.0-20250812-marble-11.0-COMMUNITY.zip",
+            "download": "https://sourceforge.net/projects/evolutionx-community/files/EvolutionX-16.0-20250812-marble-11.0-COMMUNITY.zip/download/",
+            "timestamp": 1755013261,
+            "md5": "86cdb6f4e421a0ffca2181d1faacd6e9",
+            "sha256": "a0d51993409faccb89cb25f9200fc03092d01303660fc89942a54732151854d8",
+            "size": 2450491198,
+            "version": "11.0",
             "buildtype": "user",
             "forum": "https://t.me/evoxcommunity",
-            "firmware": "https://xmfirmwareupdater.com/firmware/marble/stable/OS1.0.6.0.UMRMIXM/",
+            "firmware": "https://xmfirmwareupdater.com/firmware/marble/stable/OS2.0.5.0.VMRMIXM/",
             "paypal": "https://t.me/evoxcommunity",
             "github": "timur-23-1337",
-            "sourceforge": "",
             "initial_installation_images": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
-            ]
+            ],
+            "extra_images": []
         }
     ]
 }

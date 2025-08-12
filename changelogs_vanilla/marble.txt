@@ -1,4 +1,2 @@
-- Bump EvoX version to 10.3
-- Switch to KSU-Next
-- A lot of customization options added
+- Bump EvoX version to 11.0
 - Miscellaneous improvements

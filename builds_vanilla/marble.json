@@ -2,26 +2,28 @@
     "response": [
         {
             "maintainer": "Timur_23_1337",
+            "currently_maintained": true,
             "oem": "Xiaomi",
             "device": "POCO F5",
-            "filename": "EvolutionX-15.0-20250309-marble-10.3-Vanilla-COMMUNITY.zip",
-            "download": "https://sourceforge.net/projects/evolutionx-community/files/EvolutionX-15.0-20250309-marble-10.3-Vanilla-COMMUNITY.zip/download/",
-            "timestamp": 1741542142,
-            "md5": "1e47bc3ff45db9eb789c3959a9d63c9f",
-            "sha256": "d8e249d6d10ecbc85cbb7ee88950ac05044e79816e122e18a0f1c2cd094361c3",
-            "size": 1852926539,
-            "version": "10.3",
-            "buildtype": "Stable",
+            "filename": "EvolutionX-16.0-20250812-marble-11.0-Vanilla-COMMUNITY.zip",
+            "download": "https://sourceforge.net/projects/evolutionx-community/files/EvolutionX-16.0-20250812-marble-11.0-Vanilla-COMMUNITY.zip/download/",
+            "timestamp": 1755014325,
+            "md5": "4fd18e4eed5dc40ccdc8dab9c399bae9",
+            "sha256": "79331712a2c29632a057174052e48a92224cb43f47828911bf6f8c5c4731836b",
+            "size": 1826145702,
+            "version": "11.0",
+            "buildtype": "user",
             "forum": "https://t.me/evoxcommunity",
-            "firmware": "https://xmfirmwareupdater.com/firmware/marble/stable/OS1.0.6.0.UMRMIXM/",
+            "firmware": "https://xmfirmwareupdater.com/firmware/marble/stable/OS2.0.5.0.VMRMIXM/",
             "paypal": "https://t.me/evoxcommunity",
-            "telegram": "https://t.me/evoxcommunity",
             "github": "timur-23-1337",
             "initial_installation_images": [
                 "boot",
                 "dtbo",
                 "vendor_boot"
-            ]
+            ],
+            "extra_images": [],
+            "telegram": "https://t.me/evoxcommunity"
         }
     ]
 }

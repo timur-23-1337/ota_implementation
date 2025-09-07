@@ -12,12 +12,16 @@
             "sha256": "c1e315ca200f73f33526f3cbca27e252910e5e283d7dceb15b863d9681b43155",
             "size": 1924759836,
             "version": "11.1",
-            "buildtype": "Stable",
+            "buildtype": "user",
             "forum": "https://t.me/evoxcommunity",
-            "firmware": "https://xmfirmwareupdater.com/firmware/marble/stable/OS1.0.6.0.UMRMIXM/",
+            "firmware": "https://xmfirmwareupdater.com/firmware/marble/stable/OS2.0.5.0.VMRMIXM/",
             "paypal": "https://t.me/evoxcommunity",
             "github": "timur-23-1337",
-            "initial_installation_images": [],
+            "initial_installation_images": [
+                "boot",
+                "dtbo",
+                "vendor_boot"
+            ],
             "extra_images": [],
             "telegram": "https://t.me/evoxcommunity"
         }

@@ -1,2 +1,3 @@
-- Bump EvoX version to 11.0
+- Bump EvoX version to 11.1
+- Remove QTI Perfd in favor of libperfmgr (Big thanks to @Ashwani_dxui)
 - Miscellaneous improvements

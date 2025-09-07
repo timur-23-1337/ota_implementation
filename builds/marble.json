@@ -22,7 +22,8 @@
                 "dtbo",
                 "vendor_boot"
             ],
-            "extra_images": []
+            "extra_images": [],
+            "telegram": "https://t.me/evoxcommunity"
         }
     ]
 }
